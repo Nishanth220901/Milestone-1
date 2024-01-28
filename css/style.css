@@ -1,0 +1,73 @@
+header {
+    background-color: red;
+}
+
+.nav {
+    color: black;
+}
+
+.navbarspan {
+    color: white;
+}
+
+.navbarTogglericon {
+    color: white;
+}
+
+.nav:hover {
+    background-color: skyblue
+}
+
+.bg_image {
+    background-image: url(../assets/coverimage.jpg);
+    background-size: cover;
+    width: 98.9vw;
+    color: white;
+    text-align: center;
+    height: 100vh;
+
+}
+
+.bg_image_text {
+    padding-top: 35vh;
+
+}
+
+.sectionTwo {
+    font-size: 25px;
+
+}
+
+.sectionTwodiv {
+    border: 1px solid black;
+
+}
+
+.sectionTwoh1 {
+    font-size: 35px;
+}
+
+.sectionTwo_ul {
+    font-size: 25px;
+
+}
+
+.sectionFive {
+    background-color: whitesmoke;
+}
+
+footer {
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.ul {
+    list-style-type: none;
+}
+
+.ul_li:hover {
+    color: white;
+    cursor: pointer;
+}
